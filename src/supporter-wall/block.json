@@ -1,0 +1,15 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 2,
+	"name": "google-site-kit/supporter-wall",
+	"version": "0.1.0",
+	"title": "Thank with Google: Supporter Wall",
+	"category": "google-site-kit",
+	"icon": "smiley",
+	"description": "Thank with Google block.",
+	"supports": {
+		"html": false
+	},
+	"textdomain": "google-site-kit",
+	"editorScript": "file:./index.js"
+}

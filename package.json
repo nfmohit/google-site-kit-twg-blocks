@@ -1,0 +1,19 @@
+{
+	"name": "google-site-kit-twg-blocks",
+	"version": "0.1.0",
+	"description": "Blocks for Thank with Google module in Google Site Kit.",
+	"author": "Google",
+	"license": "GPL-2.0-or-later",
+	"scripts": {
+		"build": "wp-scripts build",
+		"format": "wp-scripts format",
+		"lint:css": "wp-scripts lint-style",
+		"lint:js": "wp-scripts lint-js",
+		"packages-update": "wp-scripts packages-update",
+		"plugin-zip": "wp-scripts plugin-zip",
+		"start": "wp-scripts start"
+	},
+	"devDependencies": {
+		"@wordpress/scripts": "^24.3.0"
+	}
+}
